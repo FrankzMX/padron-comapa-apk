@@ -3,7 +3,7 @@
 Aquí solo se publica la app Android (APK) del padrón de beneficiarios de pipas de COMAPA Victoria. El código no está en este repositorio.
 
 ## Descargar
-Entra a **[Releases](../../releases/latest)** desde el teléfono y descarga el archivo `padron-comapa-vX.Y.Z.apk` de la versión más reciente.
+Entra a **[Releases](../../releases)** desde el teléfono y descarga el archivo `padron-comapa-vX.Y.Z.apk` de la versión de hasta arriba (la más reciente).
 
 ## Instalar
 1. Abre el APK descargado.
